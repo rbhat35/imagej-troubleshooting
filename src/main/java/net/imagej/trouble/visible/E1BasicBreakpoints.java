@@ -36,7 +36,7 @@ public class E1BasicBreakpoints {
 		final Object o = new Object();
 		System.out.println(o);
 
-		return null;
+		return o;
 	}
 
 	private static void printThis(final Object o) {

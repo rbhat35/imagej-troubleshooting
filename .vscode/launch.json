@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E1BasicBreakpoints<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E1BasicBreakpoints",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E2EffectiveExpressions<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E2EffectiveExpressions",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E3ConditionalCrisis<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E3ConditionalCrisis",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E4RemoteResearch<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E4RemoteResearch",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E5HistoricalHysteria<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E5HistoricalHysteria",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E7InvestigateImpressions<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E7InvestigateImpressions",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E8PerceivingPerformance<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E8PerceivingPerformance",
+            "projectName": "imagej-troubleshooting"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E9MultithreadedMadness<imagej-troubleshooting>",
+            "request": "launch",
+            "mainClass": "net.imagej.trouble.visible.E9MultithreadedMadness",
+            "projectName": "imagej-troubleshooting"
+        }
+    ]
+}
